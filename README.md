@@ -3,7 +3,7 @@ KeitaTsukuba/KeitaTsukuba is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KeitaTsukuba&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KeitaTsukuba&theme=monokai)
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KeitaTsukuba&show_icons=true&theme=onedark)
  
